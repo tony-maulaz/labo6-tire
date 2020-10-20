@@ -169,3 +169,7 @@ Les options suivantes seraient considérées :
 
 - `--help` affiche l'aide et termine le programme ;
 - `--version` affiche l'auteur et la version puis termine le programme.
+
+```console
+./tire --version
+```
