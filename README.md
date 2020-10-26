@@ -181,5 +181,5 @@ Mettre les fichiers suivant dans une archive **`zip`** (**pénalité pour les ar
 -  Le fichier exécutable
 -  Le fichier de test
 
-L’archive doit être déposée dans le répertoire "Labo07" de Cyberlearn (à la date
+L’archive doit être déposée dans le répertoire "Labo06" de Cyberlearn (à la date
 demandée sur le site INFO1 de Cyberlearn).
