@@ -173,3 +173,13 @@ Les options suivantes seraient considérées :
 ```console
 ./tire --version
 ```
+
+## Liste des livrables
+
+Mettre les fichiers suivant dans une archive **`zip`** (**pénalité pour les archives `rar`**) et la placer sur Cyberlearn
+-  Code source
+-  Le fichier exécutable
+-  Le fichier de test
+
+L’archive doit être déposée dans le répertoire "Labo07" de Cyberlearn (à la date
+demandée sur le site INFO1 de Cyberlearn).
