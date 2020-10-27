@@ -135,6 +135,17 @@ const double tire_sidewall = tire_width * (ratio_percent * percent_to_factor);
 const double sidewall_to_sidewalls = 2.0;
 const double wheel_diameter = rim_diameter + sidewall_to_sidewalls * tire_sidewall;
 ```
+
+## Qualité du code
+
+De plus en plus, la qualité du code est évaluée. Pour mémoire:
+
+- Un **commentaire** en début de programme explique le but du programme à celui qui découvre le code.
+- Vos variables sont nommées de façon **appropriées**.
+- La **visibilité** (*scope*) de vos variable est minimum.
+- Les **constantes littérales** sont nommées pour une meilleure compréhension.
+- Le programme doit être **robuste**, les cas d'exception doivent être traités
+
 ## Taille du tableau dynamique
 
 Pour ajuster la taille du tableau dynamiquement, voici un exemple avec des macros qui pourrait vous être utile :
